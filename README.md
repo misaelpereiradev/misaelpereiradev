@@ -6,19 +6,22 @@
 <h2 align="left">💫 About Me</h2>
 <h3 align="center">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h3>
 
-🔭 I’m currently working on <br>
-👯 I’m looking to collaborate on <br>
-🤝 I’m looking for help with <br>
-🌱 I’m currently learning <br>
-💬 Ask me about <br>
-⚡ Fun fact <br>
-📫 How to reach me <br>
+🔭 I’m currently working on: TBA <br>
+👯 I’m looking to collaborate on: TBA <br>
+🤝 I’m looking for help with: TBA <br>
+🌱 I’m currently learning: TBA <br>
+💬 Ask me about: TBA <br>
+⚡ Fun fact: TBA <br>
+📫 How to reach me: <b>Look at Socials Section 👇</b> <br>
 
-<!-- -->
+<!-- https://shields.io/ -->
 <h2>🌐 Socials</h2>
 <p align="left">
-    <a href="https://linkedin.com/in/linkedinkcontact" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="mailto:misael.pereira.dev@outlook.com" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://es.linkedin.com/in/misael-pereira-diaz-3895a5172" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </p>
 
@@ -155,6 +158,7 @@
 </p>
 <!-- To-do: add CDN, Ansible, Terraform, Mocha, Chai, Sinon, Playwriht, Storybook -->
 
+<!-- https://devicon.dev/ -->
 <h2 align="left">🛠️ Tools</h2>
 <p align="left">
     <h3>Softwares</h3>

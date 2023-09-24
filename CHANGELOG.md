@@ -1,3 +1,6 @@
+### 0.0.7
+- Added some info to Socials sections
+
 ### 0.0.6
 - Added Nodejs and GraalVM
 
