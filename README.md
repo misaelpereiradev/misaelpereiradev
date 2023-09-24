@@ -38,6 +38,9 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+    </a>
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
     </a>
@@ -83,6 +86,10 @@
         <a href="https://gradle.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/>
     </a>
+    </a>
+        <a href="https://www.graalvm.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.graalvm.org/resources/img/home/graalvm_rabbit_icon.svg" alt="graalvm" width="40" height="40"/>
+    </a>  
     </a>
         <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
         <img src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" width="40" height="40"/>
