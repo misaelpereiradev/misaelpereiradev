@@ -145,9 +145,44 @@
         <a href="https://grafana.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="graphana" width="40" height="40"/>
     </a>
-    
 </p>
 <!-- To-do: add CDN, Ansible, Terraform, Mocha, Chai, Sinon, Playwriht, Storybook -->
+
+<h2 align="left">🛠️ Tools</h2>
+<p align="left">
+    <h3>Softwares</h3>
+    </a>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij-idea" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://www.google.com/chrome/" target="_blank" rel="noreferrer">
+        <img src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg" alt="google-chrome" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="insomnia" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/wiki/dbeaver/dbeaver/images/dbeaver-head.png" alt="dbeaver" width="40" height="40"/>
+    </a>
+    <h3>Links</h3>
+    <ul>
+        <li><a href="https://outlook.live.com/" target="_blank" rel="noreferrer">Outlook</a></li>
+        <li><a href="https://github.com/" target="_blank" rel="noreferrer">Github</a></li>
+        <li><a href="https://circleci.com/" target="_blank" rel="noreferrer">CircleCI</a></li>
+        <li><a href="https://hub.docker.com/" target="_blank" rel="noreferrer">DockerHub</a></li>
+        <li><a href="https://www.cockroachlabs.com/" target="_blank" rel="noreferrer">Cockroach Labs</a></li>
+        <li><a href="https://www.mongodb.com/atlas/database" target="_blank" rel="noreferrer">MongoDb Atlas</a></li>
+        <li><a href="https://start.spring.io/" target="_blank" rel="noreferrer">Spring Initializr</a></li>
+        <li><a href="https://code.quarkus.io/" target="_blank" rel="noreferrer">Quarkus Start</a></li>
+    </ul>
+</p>
 
 <h2>📊 GitHub Stats</h2>
 <p align="left">

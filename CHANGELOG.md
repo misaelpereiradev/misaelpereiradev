@@ -1,3 +1,8 @@
+### 0.0.5
+- Added new "tools" section
+- Added tools software icons
+- Added tools useful links
+
 ### 0.0.4
 - Added database tech stack icons
 - Added devops tech stack icons
