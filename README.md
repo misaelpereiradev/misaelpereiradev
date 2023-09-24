@@ -99,7 +99,55 @@
         <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
         <img src="https://icons.veryicon.com/png/Food%20%26%20Drinks/Cocktails/Mojito.png" alt="mockito" width="40" height="40"/>
     </a>
+    <h3>Database</h3>
+    </a>
+        <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/354210/prisma.svg" alt="prisma" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://www.cockroachlabs.com/" target="_blank" rel="noreferrer">
+        <img src="https://ww2.freelogovectors.net/wp-content/uploads/2022/03/cockroachdb_logo_freelogovectors.net_.png?lossy=1&w=2560&ssl=1" alt="cockroachdb" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://redis.io/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+    </a>
+    <h3>DevOps</h3>
+    </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://circleci.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" alt="circleci" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://www.elastic.co/es/elastic-stack" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/349350/elastic.svg" alt="elastic-stack" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="graphana" width="40" height="40"/>
+    </a>
+    
 </p>
+<!-- To-do: add CDN, Ansible, Terraform, Mocha, Chai, Sinon, Playwriht, Storybook -->
 
 <h2>📊 GitHub Stats</h2>
 <p align="left">

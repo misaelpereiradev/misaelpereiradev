@@ -1,3 +1,7 @@
+### 0.0.4
+- Added database tech stack icons
+- Added devops tech stack icons
+
 ### 0.0.3
 - Added transport tech stack icons
 - Added backend tech stack icons
