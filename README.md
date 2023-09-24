@@ -50,6 +50,55 @@
     <a href="https://lit.dev/" target="_blank" rel="noreferrer">
         <img src="https://lit.dev/images/logo.svg#flame" alt="lit" width="40" height="40"/>
     </a>
+    <h3>Transport</h3>
+    <a href="https://developer.mozilla.org/es/docs/Glossary/REST" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/374044/rest.svg" alt="rest" width="40" height="40"/>
+    </a>
+        <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
+    </a>
+        <a href="https://grpc.io/" target="_blank" rel="noreferrer">
+        <img src="https://plugins.jetbrains.com/files/16889/400896/icon/pluginIcon.svg" alt="grpc" width="40" height="40"/>
+    </a>
+        <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
+    </a>
+        <a href="https://socket.io/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40"/>
+    </a>
+    <h3>Backend</h3>
+    </a>
+        <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    </a>    
+    </a>
+        <a href="https://projectlombok.org/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/45949248?s=200&v=4" alt="lombok" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="maven" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://gradle.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+        <img src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://quarkus.io/" target="_blank" rel="noreferrer">
+        <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_reverse.svg" alt="quarkus" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+        <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/>
+    </a>
+    </a>
+        <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
+        <img src="https://icons.veryicon.com/png/Food%20%26%20Drinks/Cocktails/Mojito.png" alt="mockito" width="40" height="40"/>
+    </a>
 </p>
 
 <h2>📊 GitHub Stats</h2>
