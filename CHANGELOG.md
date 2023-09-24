@@ -1,3 +1,6 @@
+### 0.0.8
+- Fix Letters in banner
+
 ### 0.0.7
 - Added some info to Socials sections
 

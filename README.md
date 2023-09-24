@@ -1,4 +1,5 @@
 <!-- https://leviarista.github.io/github-profile-header-generator/ -->
+<!-- 970 x 250 (0,70,135) (10,0,71) (0,255,210) MavenPro Redhat-->
 <div align="center">
     <img src="./misaelpereiradev_github_banner.png" alt="misaelpereiradev_github_banner"/>
 </div>
@@ -6,6 +7,7 @@
 <h2 align="left">💫 About Me</h2>
 <h3 align="center">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h3>
 
+<!-- https://es.piliapp.com/emoji/list/ -->
 🔭 I’m currently working on: TBA <br>
 👯 I’m looking to collaborate on: TBA <br>
 🤝 I’m looking for help with: TBA <br>
