@@ -31,13 +31,13 @@
 <h2 align="left">💻 Tech Stack</h2>
 <p align="left">
     <h3>Frontend</h3>
-    <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
     </a>
-    <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
     </a>
-    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -49,17 +49,17 @@
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
     </a>
-    <a href="https://pnpm.io/es/" target="_blank" rel="noreferrer">
-        <img src="https://pnpm.io/es/img/pnpm-no-name-with-frame.svg" alt="pnpm" width="40" height="40"/>
+    <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
+        <img src="https://pnpm.io/img/pnpm-no-name-with-frame.svg" alt="pnpm" width="40" height="40"/>
     </a>
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
         <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
     </a>
     <a href="https://lit.dev/" target="_blank" rel="noreferrer">
-        <img src="https://lit.dev/images/logo.svg#flame" alt="lit" width="40" height="40"/>
+        <img src="https://seeklogo.com/images/L/lit-logo-6B43868CDC-seeklogo.com.png" alt="lit" height="40"/>
     </a>
     <h3>Transport</h3>
-    <a href="https://developer.mozilla.org/es/docs/Glossary/REST" target="_blank" rel="noreferrer">
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/374044/rest.svg" alt="rest" width="40" height="40"/>
     </a>
         <a href="https://graphql.org/" target="_blank" rel="noreferrer">
@@ -118,7 +118,7 @@
     </a>
     </a>
         <a href="https://www.cockroachlabs.com/" target="_blank" rel="noreferrer">
-        <img src="https://ww2.freelogovectors.net/wp-content/uploads/2022/03/cockroachdb_logo_freelogovectors.net_.png?lossy=1&w=2560&ssl=1" alt="cockroachdb" width="40" height="40"/>
+        <img src="https://ww2.freelogovectors.net/wp-content/uploads/2022/03/cockroachdb_logo_freelogovectors.net_.png?lossy=1&w=2560&ssl=1" alt="cockroachdb" width="40"/>
     </a>
     </a>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -146,7 +146,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" alt="circleci" width="40" height="40"/>
     </a>
     </a>
-        <a href="https://www.elastic.co/es/elastic-stack" target="_blank" rel="noreferrer">
+        <a href="https://www.elastic.co/elastic-stack" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/349350/elastic.svg" alt="elastic-stack" width="40" height="40"/>
     </a>
     </a>
