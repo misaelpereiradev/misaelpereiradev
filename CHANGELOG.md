@@ -1,3 +1,6 @@
+### 0.0.10
+- Reordered github stats
+
 ### 0.0.9
 - Updated spanish links to be english by default
 - Updated Lit icon

@@ -199,7 +199,13 @@
 
 <h2>📊 GitHub Stats</h2>
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=misaelpereiradev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="circleci"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=misaelpereiradev&theme=tokyonight&hide_border=true" alt="circleci"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaelpereiradev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="circleci"/>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaelpereiradev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="used-languages"/>
+    </div>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=misaelpereiradev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="github-stats"/>
+    </div>
+    <div>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=misaelpereiradev&theme=tokyonight&hide_border=true" alt="contributions"/>
+    </div>
 </p>
