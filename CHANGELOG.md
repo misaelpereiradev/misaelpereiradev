@@ -1,3 +1,11 @@
+### 0.0.10
+- Reordered github stats
+
+### 0.0.9
+- Updated spanish links to be english by default
+- Updated Lit icon
+- Updated width/heigth of some .png icons
+
 ### 0.0.8
 - Fix Letters in banner
 
