@@ -59,7 +59,7 @@
         <img src="https://seeklogo.com/images/L/lit-logo-6B43868CDC-seeklogo.com.png" alt="lit" height="40"/>
     </a>
     <h3>Transport</h3>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank" rel="noreferrer">
+    <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/374044/rest.svg" alt="rest" width="40" height="40"/>
     </a>
     <a href="https://graphql.org/" target="_blank" rel="noreferrer">
@@ -147,8 +147,8 @@
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij-idea" width="40" height="40"/>
     </a>
-    <a href="https://www.google.com/chrome/" target="_blank" rel="noreferrer">
-        <img src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg" alt="google-chrome" width="40" height="40"/>
+    <a href="https://brave.com/" target="_blank" rel="noreferrer">
+        <img src="https://brave.com/static-assets/images/brave-logo-sans-text.svg" alt="brave" width="40" height="40"/>
     </a>
     <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="insomnia" width="40" height="40"/>
