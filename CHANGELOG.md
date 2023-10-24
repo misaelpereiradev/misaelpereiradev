@@ -1,3 +1,8 @@
+### 0.0.12
+- Added Brave Browser to software list
+- Updated REST link to redirect to restfulapi.net
+- Deleted Chrome from software list
+
 ### 0.0.11
 - Updated Maven link to redirect to maven central repository page
 - Updated Spring Boot link to redirect to spring landing page
