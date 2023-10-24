@@ -1,3 +1,11 @@
+### 0.0.11
+- Updated Maven link to redirect to maven central repository page
+- Updated Spring Boot link to redirect to spring landing page
+- Updated Cockroachdb icon from png to svg
+- Updated Graalvm icon order to be the second in backend list
+- Deleted Project Lombok from backend list
+- Deleted duplicated anchors tags
+
 ### 0.0.10
 - Reordered github stats
 
