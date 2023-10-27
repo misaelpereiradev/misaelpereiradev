@@ -156,6 +156,15 @@
     <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/wiki/dbeaver/dbeaver/images/dbeaver-head.png" alt="dbeaver" width="40" height="40"/>
     </a>
+    <a href="https://www.mongodb.com/products/tools/compass/" target="_blank" rel="noreferrer">
+        <img src="https://www.mutaz.pro/img/mac/929277724627384.png" alt="dbeaver" width="40" height="40"/>
+    </a>
+    <a href="https://redis.com/redis-enterprise/redis-insight/" target="_blank" rel="noreferrer">
+        <img src="https://redis.com/wp-content/uploads/2019/11/ico-redisinsight.svg" alt="dbeaver" width="40" height="40"/>
+    </a>
+    <a href="https://www.conduktor.io/" target="_blank" rel="noreferrer">
+        <img src="https://img-c.udemycdn.com/user/200_H/176054272_f5cd_6.jpg" alt="dbeaver" width="40" height="40"/>
+    </a>
     <h3>Links</h3>
     <ul>
         <li><a href="https://outlook.live.com/" target="_blank" rel="noreferrer">Outlook</a></li>
@@ -164,6 +173,7 @@
         <li><a href="https://hub.docker.com/" target="_blank" rel="noreferrer">DockerHub</a></li>
         <li><a href="https://www.cockroachlabs.com/" target="_blank" rel="noreferrer">Cockroach Labs</a></li>
         <li><a href="https://www.mongodb.com/atlas/database" target="_blank" rel="noreferrer">MongoDb Atlas</a></li>
+        <li><a href="https://upstash.com/" target="_blank" rel="noreferrer">Upstash</a></li>
         <li><a href="https://start.spring.io/" target="_blank" rel="noreferrer">Spring Initializr</a></li>
         <li><a href="https://code.quarkus.io/" target="_blank" rel="noreferrer">Quarkus Start</a></li>
     </ul>

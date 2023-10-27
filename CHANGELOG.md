@@ -1,3 +1,9 @@
+### 0.0.13
+- Added Mongodb Compass to software list
+- Added Redis Insight to software list
+- Added Conduktor to software list
+- Added Upstash to links list
+
 ### 0.0.12
 - Added Brave Browser to software list
 - Updated REST link to redirect to restfulapi.net
