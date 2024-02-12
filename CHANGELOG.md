@@ -1,3 +1,7 @@
+### 0.0.14
+- Updated Gradle and Dbeaver icon link
+- Updated Mongo, Redis and Conduktor image alt property
+
 ### 0.0.13
 - Added Mongodb Compass to software list
 - Added Redis Insight to software list

@@ -85,7 +85,7 @@
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="maven_central_repository" width="40" height="40"/>
     </a>
     <a href="https://gradle.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/>
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" width="40" height="40"/>
@@ -135,7 +135,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="graphana" width="40" height="40"/>
     </a>
 </p>
-<!-- To-do: add CDN, Ansible, Terraform, Mocha, Chai, Sinon, Playwriht, Storybook -->
+<!-- To-do: add CDN, Ansible, Terraform, Mocha, Chai, Sinon, Playwriht, Storybook, Vitest, OpenWC -->
 
 <!-- https://devicon.dev/ -->
 <h2 align="left">🛠️ Tools</h2>
@@ -154,16 +154,16 @@
         <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="insomnia" width="40" height="40"/>
     </a>
     <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/wiki/dbeaver/dbeaver/images/dbeaver-head.png" alt="dbeaver" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt="dbeaver" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/products/tools/compass/" target="_blank" rel="noreferrer">
-        <img src="https://www.mutaz.pro/img/mac/929277724627384.png" alt="dbeaver" width="40" height="40"/>
+        <img src="https://www.mutaz.pro/img/mac/929277724627384.png" alt="mongodb-compass" width="40" height="40"/>
     </a>
     <a href="https://redis.com/redis-enterprise/redis-insight/" target="_blank" rel="noreferrer">
-        <img src="https://redis.com/wp-content/uploads/2019/11/ico-redisinsight.svg" alt="dbeaver" width="40" height="40"/>
+        <img src="https://redis.com/wp-content/uploads/2019/11/ico-redisinsight.svg" alt="redis-insight" width="40" height="40"/>
     </a>
     <a href="https://www.conduktor.io/" target="_blank" rel="noreferrer">
-        <img src="https://img-c.udemycdn.com/user/200_H/176054272_f5cd_6.jpg" alt="dbeaver" width="40" height="40"/>
+        <img src="https://img-c.udemycdn.com/user/200_H/176054272_f5cd_6.jpg" alt="conduktor" width="40" height="40"/>
     </a>
     <h3>Links</h3>
     <ul>
