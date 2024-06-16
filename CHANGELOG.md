@@ -1,3 +1,17 @@
+### 0.0.15
+- Added new icons folder and updated img sources
+- Added Oracle DB to icon and link section
+- Added Open Webcomponets to icon section
+- Added Storybook to icon section
+- Added Bash to icon section
+- Moved banner to a banners folder
+- Updated websocket icon and link
+- Deleted Quarkus from icon and link sections
+- Deleted JUnit from icon section
+- Deleted Mockito from icon section
+- Deleted Prisma from icon section
+- Deleted CockroachDB from icon and link section
+
 ### 0.0.14
 - Updated Gradle and Dbeaver icon link
 - Updated Mongo, Redis and Conduktor image alt property
