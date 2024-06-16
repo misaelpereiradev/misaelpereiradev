@@ -1,7 +1,7 @@
 <!-- https://leviarista.github.io/github-profile-header-generator/ -->
 <!-- 970 x 250 (0,70,135) (10,0,71) (0,255,210) MavenPro Redhat-->
 <div align="center">
-    <img src="./misaelpereiradev_github_banner.png" alt="misaelpereiradev_github_banner"/>
+    <img src="./banners/misaelpereiradev_github_banner.png" alt="misaelpereiradev_github_banner"/>
 </div>
 
 <h2 align="left">💫 About Me</h2>
@@ -32,138 +32,135 @@
 <p align="left">
     <h3>Frontend</h3>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+        <img src="icons/stack/html.svg" alt="html" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+        <img src="icons/stack/css.svg" alt="css" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <img src="icons/stack/javascript.svg" alt="javascript" width="40" height="40"/>
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+        <img src="icons/stack/typescript.svg" alt="typescript" width="40" height="40"/>
     </a>
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+        <img src="icons/stack/nodejs.svg" alt="nodejs" width="40" height="40"/>
     </a>
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+        <img src="icons/stack/npm.svg" alt="npm" width="40" height="40"/>
     </a>
     <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
-        <img src="https://pnpm.io/img/pnpm-no-name-with-frame.svg" alt="pnpm" width="40" height="40"/>
+        <img src="icons/stack/pnpm.svg" alt="pnpm" width="40" height="40"/>
     </a>
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-        <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
+        <img src="icons/stack/vite.svg" alt="vite" width="40" height="40"/>
+    </a>
+    <a href="https://open-wc.org/" target="_blank" rel="noreferrer">
+        <img src="icons/stack/open-wc.svg" alt="lit" height="40"/>
     </a>
     <a href="https://lit.dev/" target="_blank" rel="noreferrer">
-        <img src="https://seeklogo.com/images/L/lit-logo-6B43868CDC-seeklogo.com.png" alt="lit" height="40"/>
+        <img src="icons/stack/lit.svg" alt="lit" height="40"/>
+    </a>
+    <a href="https://storybook.js.org/" target="_blank" rel="noreferrer">
+        <img src="icons/stack/storybook.svg" alt="lit" height="40"/>
     </a>
     <h3>Transport</h3>
     <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/374044/rest.svg" alt="rest" width="40" height="40"/>
+        <img src="icons/stack/rest.svg" alt="rest" width="40" height="40"/>
     </a>
     <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
+        <img src="icons/stack/graphql.svg" alt="graphql" width="40" height="40"/>
     </a>
     <a href="https://grpc.io/" target="_blank" rel="noreferrer">
-        <img src="https://plugins.jetbrains.com/files/16889/400896/icon/pluginIcon.svg" alt="grpc" width="40" height="40"/>
+        <img src="icons/stack/grpc.svg" alt="grpc" width="40" height="40"/>
     </a>
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
+        <img src="icons/stack/kafka.svg" alt="kafka" width="40" height="40"/>
     </a>
-    <a href="https://socket.io/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer">
+        <img src="icons/stack/websocket.svg" alt="socketio" width="40" height="40"/>
     </a>
     <h3>Backend</h3>
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+        <img src="icons/stack/java.svg" alt="java" width="40" height="40"/>
     </a>
     <a href="https://www.graalvm.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.graalvm.org/resources/img/home/graalvm_rabbit_icon.svg" alt="graalvm" width="40" height="40"/>
+        <img src="icons/stack/graalvm.svg" alt="graalvm" width="40" height="40"/>
     </a>
     <a href="https://central.sonatype.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="maven_central_repository" width="40" height="40"/>
+        <img src="icons/stack/maven.svg" alt="maven_central_repository" width="40" height="40"/>
     </a>
     <a href="https://gradle.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/>
+        <img src="icons/stack/gradle.svg" alt="gradle" width="40" height="40"/>
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" width="40" height="40"/>
-    </a>
-    <a href="https://quarkus.io/" target="_blank" rel="noreferrer">
-        <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_reverse.svg" alt="quarkus" width="40" height="40"/>
-    </a>
-    <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-        <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/>
-    </a>
-    <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
-        <img src="https://icons.veryicon.com/png/Food%20%26%20Drinks/Cocktails/Mojito.png" alt="mockito" width="40" height="40"/>
+        <img src="icons/stack/spring-boot.svg" alt="spring-boot" width="40" height="40"/>
     </a>
     <h3>Database</h3>
-    <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/354210/prisma.svg" alt="prisma" width="40" height="40"/>
-    </a>
-    <a href="https://www.cockroachlabs.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.10xbanking.com/hubfs/CockroachLabs_Logo-Mark_Full-Color-Light-BG.svg" alt="cockroachdb" height="40"/>
+    <a href="https://oracle.com/database/" target="_blank" rel="noreferrer">
+        <img src="icons/stack/oracle.svg" alt="oracledb" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+        <img src="icons/stack/mongodb.svg" alt="mongodb" width="40" height="40"/>
     </a>
     <a href="https://redis.io/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+        <img src="icons/stack/redis.svg" alt="redis" width="40" height="40"/>
     </a>
     <h3>DevOps</h3>
+    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
+        <img src="icons/stack/bash.svg" alt="git" width="40" height="40"/>
+    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+        <img src="icons/stack/git.svg" alt="git" width="40" height="40"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+        <img src="icons/stack/docker.svg" alt="docker" width="40" height="40"/>
     </a>
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+        <img src="icons/stack/kubernetes.svg" alt="kubernetes" width="40" height="40"/>
     </a>
     <a href="https://circleci.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" alt="circleci" width="40" height="40"/>
+        <img src="icons/stack/circleci.svg" alt="circleci" width="40" height="40"/>
     </a>
     <a href="https://www.elastic.co/elastic-stack" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/349350/elastic.svg" alt="elastic-stack" width="40" height="40"/>
+        <img src="icons/stack/elastic.svg" alt="elastic-stack" width="40" height="40"/>
     </a>
     <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
+        <img src="icons/stack/prometheus.svg" alt="prometheus" width="40" height="40"/>
     </a>
     <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="graphana" width="40" height="40"/>
+        <img src="icons/stack/grafana.svg" alt="graphana" width="40" height="40"/>
     </a>
 </p>
-<!-- To-do: add CDN, Ansible, Terraform, Mocha, Chai, Sinon, Playwriht, Storybook, Vitest, OpenWC -->
+<!-- To-do: add CDN, Ansible, Terraform, Helm -->
 
 <!-- https://devicon.dev/ -->
 <h2 align="left">🛠️ Tools</h2>
 <p align="left">
     <h3>Softwares</h3>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+        <img src="icons/tools/vscode.svg" alt="vscode" width="40" height="40"/>
     </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij-idea" width="40" height="40"/>
+        <img src="icons/tools/intelliJ-idea.svg" alt="intellij-idea" width="40" height="40"/>
     </a>
     <a href="https://brave.com/" target="_blank" rel="noreferrer">
-        <img src="https://brave.com/static-assets/images/brave-logo-sans-text.svg" alt="brave" width="40" height="40"/>
+        <img src="icons/tools/brave.svg" alt="brave" width="40" height="40"/>
     </a>
     <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="insomnia" width="40" height="40"/>
+        <img src="icons/tools/insomnia.svg" alt="insomnia" width="40" height="40"/>
     </a>
     <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt="dbeaver" width="40" height="40"/>
+        <img src="icons/tools/dbeaver.svg" alt="dbeaver" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/products/tools/compass/" target="_blank" rel="noreferrer">
-        <img src="https://www.mutaz.pro/img/mac/929277724627384.png" alt="mongodb-compass" width="40" height="40"/>
+        <img src="icons/tools/mongodb-compass.svg" alt="mongodb-compass" width="40" height="40"/>
     </a>
     <a href="https://redis.com/redis-enterprise/redis-insight/" target="_blank" rel="noreferrer">
-        <img src="https://redis.com/wp-content/uploads/2019/11/ico-redisinsight.svg" alt="redis-insight" width="40" height="40"/>
+        <img src="icons/tools/redisinsight.svg" alt="redis-insight" width="40" height="40"/>
     </a>
     <a href="https://www.conduktor.io/" target="_blank" rel="noreferrer">
-        <img src="https://img-c.udemycdn.com/user/200_H/176054272_f5cd_6.jpg" alt="conduktor" width="40" height="40"/>
+        <img src="icons/tools/conduktor.jpg" alt="conduktor" width="40" height="40"/>
     </a>
     <h3>Links</h3>
     <ul>
@@ -171,11 +168,10 @@
         <li><a href="https://github.com/" target="_blank" rel="noreferrer">Github</a></li>
         <li><a href="https://circleci.com/" target="_blank" rel="noreferrer">CircleCI</a></li>
         <li><a href="https://hub.docker.com/" target="_blank" rel="noreferrer">DockerHub</a></li>
-        <li><a href="https://www.cockroachlabs.com/" target="_blank" rel="noreferrer">Cockroach Labs</a></li>
+        <li><a href="https://www.oracle.com/es/cloud/" target="_blank" rel="noreferrer">Oracle Cloud</a></li>
         <li><a href="https://www.mongodb.com/atlas/database" target="_blank" rel="noreferrer">MongoDb Atlas</a></li>
         <li><a href="https://upstash.com/" target="_blank" rel="noreferrer">Upstash</a></li>
         <li><a href="https://start.spring.io/" target="_blank" rel="noreferrer">Spring Initializr</a></li>
-        <li><a href="https://code.quarkus.io/" target="_blank" rel="noreferrer">Quarkus Start</a></li>
     </ul>
 </p>
 
