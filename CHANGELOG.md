@@ -1,5 +1,9 @@
 ### 0.X.X
 - Update changelog versions
+- Deleted Stack "Transport" section
+- Deleted Stack "Database" section
+- Reorganized icons from deleted sections into others
+- Code style corrections
 
 ### 0.4.0
 - Added new icons folder and updated img sources
