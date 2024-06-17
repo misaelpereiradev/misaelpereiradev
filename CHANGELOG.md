@@ -1,4 +1,5 @@
-### 0.X.X
+### 0.5.0
+- Added new banner created with Leonardo AI
 - Update changelog versions
 - Deleted Stack "Transport" section
 - Deleted Stack "Database" section

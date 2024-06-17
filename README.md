@@ -1,7 +1,11 @@
-<!-- https://leviarista.github.io/github-profile-header-generator/ -->
-<!-- 970 x 250 (0,70,135) (10,0,71) (0,255,210) MavenPro Redhat-->
+<!-- Banner image generated with Leonardo AI -->
+<!-- 
+    Leonardo AI Prompt:
+
+    Misael Pereira, full-stack software engineer, banner illustration, against a gradient of dark blue to deep purple night sky at dusk, evoking innovation and professionalism, with subtle circuit board patterns and thin coding symbols etched in a metallic silver hue, blending seamlessly with futuristic coding interface lines in shades of electric blue and bright green, modern, simple, and minimalist, surrounded by clean, bold typography with a hint of metallic finish, conveying cutting-edge expertise.
+-->
 <div align="center">
-    <img src="./banners/misaelpereiradev_github_banner.png" alt="misaelpereiradev_github_banner"/>
+    <img src="./banners/misaelpereiradev_github_banner_2.jpg" alt="misaelpereiradev_github_banner"/>
 </div>
 
 <h2 align="left">💫 About Me</h2>
