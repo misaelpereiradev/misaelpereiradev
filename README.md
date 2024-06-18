@@ -1,20 +1,24 @@
-<!-- https://leviarista.github.io/github-profile-header-generator/ -->
-<!-- 970 x 250 (0,70,135) (10,0,71) (0,255,210) MavenPro Redhat-->
+<!-- Banner image generated with Leonardo AI -->
+<!-- 
+    Leonardo AI Prompt:
+
+    Misael Pereira, full-stack software engineer, banner illustration, against a gradient of dark blue to deep purple night sky at dusk, evoking innovation and professionalism, with subtle circuit board patterns and thin coding symbols etched in a metallic silver hue, blending seamlessly with futuristic coding interface lines in shades of electric blue and bright green, modern, simple, and minimalist, surrounded by clean, bold typography with a hint of metallic finish, conveying cutting-edge expertise.
+-->
 <div align="center">
-    <img src="./banners/misaelpereiradev_github_banner.png" alt="misaelpereiradev_github_banner"/>
+    <img src="./banners/misaelpereiradev_github_banner_2.jpg" alt="misaelpereiradev_github_banner"/>
 </div>
 
 <h2 align="left">💫 About Me</h2>
 <h3 align="center">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h3>
 
 <!-- https://es.piliapp.com/emoji/list/ -->
-🔭 I’m currently working on: TBA <br>
-👯 I’m looking to collaborate on: TBA <br>
-🤝 I’m looking for help with: TBA <br>
-🌱 I’m currently learning: TBA <br>
-💬 Ask me about: TBA <br>
-⚡ Fun fact: TBA <br>
-📫 How to reach me: <b>Look at Socials Section 👇</b> <br>
+🔭 I’m currently working on: TBA                        <br>
+👯 I’m looking to collaborate on: TBA                   <br>
+🤝 I’m looking for help with: TBA                       <br>
+🌱 I’m currently learning: TBA                          <br>
+💬 Ask me about: TBA                                    <br>
+⚡ Fun fact: TBA                                        <br>
+📫 How to reach me: <b>Look at Socials Section 👇</b>   <br>
 
 <!-- https://shields.io/ -->
 <h2>🌐 Socials</h2>
@@ -64,18 +68,8 @@
     <a href="https://storybook.js.org/" target="_blank" rel="noreferrer">
         <img src="icons/stack/storybook.svg" alt="lit" height="40"/>
     </a>
-    <h3>Transport</h3>
-    <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-        <img src="icons/stack/rest.svg" alt="rest" width="40" height="40"/>
-    </a>
     <a href="https://graphql.org/" target="_blank" rel="noreferrer">
         <img src="icons/stack/graphql.svg" alt="graphql" width="40" height="40"/>
-    </a>
-    <a href="https://grpc.io/" target="_blank" rel="noreferrer">
-        <img src="icons/stack/grpc.svg" alt="grpc" width="40" height="40"/>
-    </a>
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-        <img src="icons/stack/kafka.svg" alt="kafka" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer">
         <img src="icons/stack/websocket.svg" alt="socketio" width="40" height="40"/>
@@ -96,7 +90,6 @@
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="icons/stack/spring-boot.svg" alt="spring-boot" width="40" height="40"/>
     </a>
-    <h3>Database</h3>
     <a href="https://oracle.com/database/" target="_blank" rel="noreferrer">
         <img src="icons/stack/oracle.svg" alt="oracledb" width="40" height="40"/>
     </a>
@@ -105,6 +98,15 @@
     </a>
     <a href="https://redis.io/" target="_blank" rel="noreferrer">
         <img src="icons/stack/redis.svg" alt="redis" width="40" height="40"/>
+    </a>
+    <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+        <img src="icons/stack/rest.svg" alt="rest" width="40" height="40"/>
+    </a>
+    <a href="https://grpc.io/" target="_blank" rel="noreferrer">
+        <img src="icons/stack/grpc.svg" alt="grpc" width="40" height="40"/>
+    </a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+        <img src="icons/stack/kafka.svg" alt="kafka" width="40" height="40"/>
     </a>
     <h3>DevOps</h3>
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
