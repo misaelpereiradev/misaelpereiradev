@@ -53,12 +53,6 @@
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
         <img src="icons/stack/npm.svg" alt="npm" width="40" height="40"/>
     </a>
-    <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
-        <img src="icons/stack/pnpm.svg" alt="pnpm" width="40" height="40"/>
-    </a>
-    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-        <img src="icons/stack/vite.svg" alt="vite" width="40" height="40"/>
-    </a>
     <a href="https://open-wc.org/" target="_blank" rel="noreferrer">
         <img src="icons/stack/open-wc.svg" alt="lit" height="40"/>
     </a>
@@ -78,14 +72,8 @@
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
         <img src="icons/stack/java.svg" alt="java" width="40" height="40"/>
     </a>
-    <a href="https://www.graalvm.org/" target="_blank" rel="noreferrer">
-        <img src="icons/stack/graalvm.svg" alt="graalvm" width="40" height="40"/>
-    </a>
     <a href="https://central.sonatype.com/" target="_blank" rel="noreferrer">
         <img src="icons/stack/maven.svg" alt="maven_central_repository" width="40" height="40"/>
-    </a>
-    <a href="https://gradle.org/" target="_blank" rel="noreferrer">
-        <img src="icons/stack/gradle.svg" alt="gradle" width="40" height="40"/>
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="icons/stack/spring-boot.svg" alt="spring-boot" width="40" height="40"/>

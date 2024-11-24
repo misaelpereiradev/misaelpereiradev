@@ -25,6 +25,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Stack **"Transport"** section
 - Stack **"Database"** section
+- Vite and pnpm from **Frontend** icons section
+- GraalVM and Gradle from **Backend** icons section
 
 ## [0.4.0] - 2024-06-16
 
