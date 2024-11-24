@@ -161,9 +161,10 @@
         <li><a href="https://github.com/" target="_blank" rel="noreferrer">Github</a></li>
         <li><a href="https://circleci.com/" target="_blank" rel="noreferrer">CircleCI</a></li>
         <li><a href="https://hub.docker.com/" target="_blank" rel="noreferrer">DockerHub</a></li>
-        <li><a href="https://www.oracle.com/es/cloud/" target="_blank" rel="noreferrer">Oracle Cloud</a></li>
-        <li><a href="https://www.mongodb.com/atlas/database" target="_blank" rel="noreferrer">MongoDb Atlas</a></li>
-        <li><a href="https://upstash.com/" target="_blank" rel="noreferrer">Upstash</a></li>
+        <li><a href="https://portal.azure.com/" target="_blank" rel="noreferrer">Azure</a></li>
+        <li><a href="https://www.gitbook.com/" target="_blank" rel="noreferrer">GitBook</a></li>
+        <li><a href="https://www.eraser.io/" target="_blank" rel="noreferrer">Eraser</a></li>
+        <li><a href="https://open-wc.org/" target="_blank" rel="noreferrer">Open Web Components</a></li>
         <li><a href="https://start.spring.io/" target="_blank" rel="noreferrer">Spring Initializr</a></li>
     </ul>
 </p>
