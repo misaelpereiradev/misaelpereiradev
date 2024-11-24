@@ -11,9 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - New banner created with Leonardo AI
 - About Me description and keypoints
+- Azure icon to Stack **"Devops"** section
 - Webstorm icon to tools section
 - Azure, GitBook, Eraser and Open Web Components links to tools section
-- AI links to tools section
+- New AI links to tools section
 
 ### Changed
 
@@ -29,8 +30,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Stack **"Transport"** section
 - Stack **"Database"** section
-- Vite and pnpm from Stack **"Frontend"** section
-- GraalVM and Gradle from Stack **"Backend"** section
+- Vite and pnpm icons from Stack **"Frontend"** section
+- GraalVM and Gradle icons from Stack **"Backend"** section
 - Oracle Cloud, MongoDB Atlas and Upstash links from tools section
 
 ## [0.4.0] - 2024-06-16

@@ -128,6 +128,9 @@ My primary focus is on developing web applications that are functional, robust, 
     <a href="https://grafana.com/" target="_blank" rel="noreferrer">
         <img src="icons/stack/grafana.svg" alt="graphana" width="40" height="40"/>
     </a>
+    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="icons/stack/azure.svg" alt="azure" width="40" height="40"/>
+    </a>
 </p>
 <!-- To-do: add CDN, Ansible, Terraform, Helm -->
 
