@@ -131,6 +131,9 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="icons/tools/vscode.svg" alt="vscode" width="40" height="40"/>
     </a>
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
+        <img src="icons/tools/webstorm.svg" alt="webstorm" width="40" height="40"/>
+    </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
         <img src="icons/tools/intelliJ-idea.svg" alt="intellij-idea" width="40" height="40"/>
     </a>
