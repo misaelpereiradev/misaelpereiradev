@@ -167,6 +167,11 @@
         <li><a href="https://open-wc.org/" target="_blank" rel="noreferrer">Open Web Components</a></li>
         <li><a href="https://start.spring.io/" target="_blank" rel="noreferrer">Spring Initializr</a></li>
     </ul>
+    <h3>AI</h3>
+    <ul>
+        <li><a href="https://chatgpt.com/" target="_blank" rel="noreferrer">ChatGPT</a></li>
+        <li><a href="https://leonardo.ai/" target="_blank" rel="noreferrer">Leornado.AI</a></li>
+    </ul>
 </p>
 
 <h2>📊 GitHub Stats</h2>
