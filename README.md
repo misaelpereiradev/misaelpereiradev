@@ -9,16 +9,23 @@
 </div>
 
 <h2 align="left">💫 About Me</h2>
-<h3 align="center">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h3>
+<p align="left">
+Hello! I'm <b>Misael Pereira</b>, a <b>FullStack Software Engineer</b> and passionate developer with experience in <b>Backend, Frontend, and DevOps</b>. I enjoy creating efficient and scalable technological solutions using tools and technologies like <b>Spring Boot, Web Components</b>, and cloud platforms such as <b>Azure</b>.
+
+My primary focus is on developing web applications that are functional, robust, and high-performing, seamlessly integrating frontend design with complex backend logic. I am also interested in automating processes and optimizing infrastructures through modern <b>DevOps</b> practices.
+</p>
 
 <!-- https://es.piliapp.com/emoji/list/ -->
-🔭 I’m currently working on: TBA                        <br>
-👯 I’m looking to collaborate on: TBA                   <br>
-🤝 I’m looking for help with: TBA                       <br>
-🌱 I’m currently learning: TBA                          <br>
-💬 Ask me about: TBA                                    <br>
-⚡ Fun fact: TBA                                        <br>
-📫 How to reach me: <b>Look at Socials Section 👇</b>   <br>
+🔭 I’m currently working on: <a href="https://github.com/misaelpereiradev?tab=projects" target="_blank" rel="noreferrer" >Misael Pereira's Projects</a><br>
+🌱 I’m currently learning: <b>Azure</b>                         <br>
+💬 Ask me about: <b>Programing 🖥️, Gaming 🎮, Fantasy 🦄</b>    <br>
+📫 How to reach me: <b>Look at Socials Section 👇</b>           <br>
+
+<!--
+👯 I’m looking to collaborate on: TBA                           <br>
+🤝 I’m looking for help with: TBA                               <br>
+⚡ Fun fact: TBA                                                <br>
+-->
 
 <!-- https://shields.io/ -->
 <h2>🌐 Socials</h2>

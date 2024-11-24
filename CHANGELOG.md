@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - New banner created with Leonardo AI
+- About Me description and keypoints
 - Webstorm icon to tools section
 - Azure, GitBook, Eraser and Open Web Components links to tools section
 - AI links to tools section
