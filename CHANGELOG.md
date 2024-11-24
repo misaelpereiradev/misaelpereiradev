@@ -1,73 +1,142 @@
-### 0.0.15
-- Added new icons folder and updated img sources
-- Added Oracle DB to icon and link section
-- Added Open Webcomponets to icon section
-- Added Storybook to icon section
-- Added Bash to icon section
-- Moved banner to a banners folder
-- Updated websocket icon and link
-- Deleted Quarkus from icon and link sections
-- Deleted JUnit from icon section
-- Deleted Mockito from icon section
-- Deleted Prisma from icon section
-- Deleted CockroachDB from icon and link section
+# Changelog
 
-### 0.0.14
-- Updated Gradle and Dbeaver icon link
-- Updated Mongo, Redis and Conduktor image alt property
+All notable changes to this project will be documented in this file.
 
-### 0.0.13
-- Added Mongodb Compass to software list
-- Added Redis Insight to software list
-- Added Conduktor to software list
-- Added Upstash to links list
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-### 0.0.12
-- Added Brave Browser to software list
-- Updated REST link to redirect to restfulapi.net
-- Deleted Chrome from software list
+## [0.5.0] - 2024-11-24
 
-### 0.0.11
-- Updated Maven link to redirect to maven central repository page
-- Updated Spring Boot link to redirect to spring landing page
-- Updated Cockroachdb icon from png to svg
-- Updated Graalvm icon order to be the second in backend list
-- Deleted Project Lombok from backend list
-- Deleted duplicated anchors tags
+### Added
 
-### 0.0.10
-- Reordered github stats
+- New banner created with Leonardo AI
+- About Me description and keypoints
+- Azure icon to Stack **"Devops"** section
+- Webstorm icon to tools section
+- Azure, GitBook, Eraser and Open Web Components links to tools section
+- New AI links to tools section
 
-### 0.0.9
-- Updated spanish links to be english by default
-- Updated Lit icon
-- Updated width/heigth of some .png icons
+### Changed
 
-### 0.0.8
-- Fix Letters in banner
+- Changelog structure, following **"Keep changelog"** and **"Semantic versioning"** convections
+- Changelog versions, grouping changes of each pull request in a new version starting from `0.1.0`
+- Icons location from deleted sections into others, some to frontend and some to backend
 
-### 0.0.7
-- Added some info to Socials sections
+### Fixed
 
-### 0.0.6
-- Added Nodejs and GraalVM
+- Some code style
 
-### 0.0.5
-- Added new "tools" section
-- Added tools software icons
-- Added tools useful links
+### Removed
 
-### 0.0.4
-- Added database tech stack icons
-- Added devops tech stack icons
+- Stack **"Transport"** section
+- Stack **"Database"** section
+- Vite and pnpm icons from Stack **"Frontend"** section
+- GraalVM and Gradle icons from Stack **"Backend"** section
+- Oracle Cloud, MongoDB Atlas and Upstash links from tools section
 
-### 0.0.3
-- Added transport tech stack icons
-- Added backend tech stack icons
+## [0.4.0] - 2024-06-16
 
-### 0.0.2
-- Added header banner
-- Added frontend tech stack icons
+### Added
 
-### 0.0.1
-- Added some basic strcuture
+- Many icons into `icons/stack` and `icons/tools` folders
+- Oracle DB to icon and link section
+- Open Webcomponets to icon section
+- Storybook to icon section
+- Bash to icon section
+
+### Changed
+
+- Banner location from `/` to `banners` folder
+- Images source location to local folders
+
+### Fixed
+
+- Websocket icon and link
+
+### Removed
+
+- Quarkus from icon and link sections
+- JUnit from icon section
+- Mockito from icon section
+- Prisma from icon section
+- CockroachDB from icon and link section
+
+## [0.3.1] - 2024-02-12
+
+### Fixed
+
+- Gradle and Dbeaver icon link
+- Mongo, Redis and Conduktor image `alt` property
+
+## [0.3.0] - 2023-10-27
+
+### Added
+
+- Mongodb Compass to software list
+- Redis Insight to software list
+- Conduktor to software list
+- Upstash to links list
+
+## [0.2.0] - 2023-10-24
+
+### Added
+
+- Brave Browser to software list
+
+### Changed
+
+- REST link to redirect to [restfulapi.net](restfulapi.net)
+
+### Removed
+
+- Chrome from software list
+
+## [0.1.2] - 2023-10-24
+
+### Changed
+
+- Maven link to redirect to [maven central repository](https://central.sonatype.com/) page
+- Spring Boot link to redirect to [spring landing page](https://spring.io/)
+- Graalvm icon order to be the second in backend list
+
+### Fixed
+
+- Cockroachdb icon from `.png` to `.svg`
+
+### Removed
+
+- Project Lombok from backend list
+- Duplicated `<a>` (anchors) tags
+
+## [0.1.1] - 2023-09-25
+
+### Changed
+
+- Spanish links to be english by default
+- Lit icon
+- Order of github stats
+
+### Fixed
+
+- `Width`/`heigth` of some `.png` icons
+
+## [0.1.0] - 2023-09-24
+
+### Added
+
+- Some basic strcuture
+- Header banner
+- Frontend tech stack icons
+- Transport tech stack icons
+- Backend tech stack icons
+- Database tech stack icons
+- Devops tech stack icons
+- New **"tools"** section
+- Tools software icons
+- Tools useful links
+- Nodejs and GraalVM
+- Some info to Socials sections
+
+### Fixed
+
+- Letters in banner

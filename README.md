@@ -1,20 +1,31 @@
-<!-- https://leviarista.github.io/github-profile-header-generator/ -->
-<!-- 970 x 250 (0,70,135) (10,0,71) (0,255,210) MavenPro Redhat-->
+<!-- Banner image generated with Leonardo AI -->
+<!-- 
+    Leonardo AI Prompt:
+
+    Misael Pereira, full-stack software engineer, banner illustration, against a gradient of dark blue to deep purple night sky at dusk, evoking innovation and professionalism, with subtle circuit board patterns and thin coding symbols etched in a metallic silver hue, blending seamlessly with futuristic coding interface lines in shades of electric blue and bright green, modern, simple, and minimalist, surrounded by clean, bold typography with a hint of metallic finish, conveying cutting-edge expertise.
+-->
 <div align="center">
-    <img src="./banners/misaelpereiradev_github_banner.png" alt="misaelpereiradev_github_banner"/>
+    <img src="./banners/misaelpereiradev_github_banner_2.jpg" alt="misaelpereiradev_github_banner"/>
 </div>
 
 <h2 align="left">💫 About Me</h2>
-<h3 align="center">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h3>
+<p align="left">
+Hello! I'm <b>Misael Pereira</b>, a <b>FullStack Software Engineer</b> and passionate developer with experience in <b>Backend, Frontend, and DevOps</b>. I enjoy creating efficient and scalable technological solutions using tools and technologies like <b>Spring Boot, Web Components</b>, and cloud platforms such as <b>Azure</b>.
+
+My primary focus is on developing web applications that are functional, robust, and high-performing, seamlessly integrating frontend design with complex backend logic. I am also interested in automating processes and optimizing infrastructures through modern <b>DevOps</b> practices.
+</p>
 
 <!-- https://es.piliapp.com/emoji/list/ -->
-🔭 I’m currently working on: TBA <br>
-👯 I’m looking to collaborate on: TBA <br>
-🤝 I’m looking for help with: TBA <br>
-🌱 I’m currently learning: TBA <br>
-💬 Ask me about: TBA <br>
-⚡ Fun fact: TBA <br>
-📫 How to reach me: <b>Look at Socials Section 👇</b> <br>
+🔭 I’m currently working on: <a href="https://github.com/misaelpereiradev?tab=projects" target="_blank" rel="noreferrer" >Misael Pereira's Projects</a><br>
+🌱 I’m currently learning: <b>Azure</b>                         <br>
+💬 Ask me about: <b>Programing 🖥️, Gaming 🎮, Fantasy 🦄</b>    <br>
+📫 How to reach me: <b>Look at Socials Section 👇</b>           <br>
+
+<!--
+👯 I’m looking to collaborate on: TBA                           <br>
+🤝 I’m looking for help with: TBA                               <br>
+⚡ Fun fact: TBA                                                <br>
+-->
 
 <!-- https://shields.io/ -->
 <h2>🌐 Socials</h2>
@@ -49,12 +60,6 @@
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
         <img src="icons/stack/npm.svg" alt="npm" width="40" height="40"/>
     </a>
-    <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
-        <img src="icons/stack/pnpm.svg" alt="pnpm" width="40" height="40"/>
-    </a>
-    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-        <img src="icons/stack/vite.svg" alt="vite" width="40" height="40"/>
-    </a>
     <a href="https://open-wc.org/" target="_blank" rel="noreferrer">
         <img src="icons/stack/open-wc.svg" alt="lit" height="40"/>
     </a>
@@ -64,18 +69,8 @@
     <a href="https://storybook.js.org/" target="_blank" rel="noreferrer">
         <img src="icons/stack/storybook.svg" alt="lit" height="40"/>
     </a>
-    <h3>Transport</h3>
-    <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-        <img src="icons/stack/rest.svg" alt="rest" width="40" height="40"/>
-    </a>
     <a href="https://graphql.org/" target="_blank" rel="noreferrer">
         <img src="icons/stack/graphql.svg" alt="graphql" width="40" height="40"/>
-    </a>
-    <a href="https://grpc.io/" target="_blank" rel="noreferrer">
-        <img src="icons/stack/grpc.svg" alt="grpc" width="40" height="40"/>
-    </a>
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-        <img src="icons/stack/kafka.svg" alt="kafka" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer">
         <img src="icons/stack/websocket.svg" alt="socketio" width="40" height="40"/>
@@ -84,19 +79,12 @@
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
         <img src="icons/stack/java.svg" alt="java" width="40" height="40"/>
     </a>
-    <a href="https://www.graalvm.org/" target="_blank" rel="noreferrer">
-        <img src="icons/stack/graalvm.svg" alt="graalvm" width="40" height="40"/>
-    </a>
     <a href="https://central.sonatype.com/" target="_blank" rel="noreferrer">
         <img src="icons/stack/maven.svg" alt="maven_central_repository" width="40" height="40"/>
-    </a>
-    <a href="https://gradle.org/" target="_blank" rel="noreferrer">
-        <img src="icons/stack/gradle.svg" alt="gradle" width="40" height="40"/>
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="icons/stack/spring-boot.svg" alt="spring-boot" width="40" height="40"/>
     </a>
-    <h3>Database</h3>
     <a href="https://oracle.com/database/" target="_blank" rel="noreferrer">
         <img src="icons/stack/oracle.svg" alt="oracledb" width="40" height="40"/>
     </a>
@@ -105,6 +93,15 @@
     </a>
     <a href="https://redis.io/" target="_blank" rel="noreferrer">
         <img src="icons/stack/redis.svg" alt="redis" width="40" height="40"/>
+    </a>
+    <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+        <img src="icons/stack/rest.svg" alt="rest" width="40" height="40"/>
+    </a>
+    <a href="https://grpc.io/" target="_blank" rel="noreferrer">
+        <img src="icons/stack/grpc.svg" alt="grpc" width="40" height="40"/>
+    </a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+        <img src="icons/stack/kafka.svg" alt="kafka" width="40" height="40"/>
     </a>
     <h3>DevOps</h3>
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
@@ -131,6 +128,9 @@
     <a href="https://grafana.com/" target="_blank" rel="noreferrer">
         <img src="icons/stack/grafana.svg" alt="graphana" width="40" height="40"/>
     </a>
+    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="icons/stack/azure.svg" alt="azure" width="40" height="40"/>
+    </a>
 </p>
 <!-- To-do: add CDN, Ansible, Terraform, Helm -->
 
@@ -140,6 +140,9 @@
     <h3>Softwares</h3>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="icons/tools/vscode.svg" alt="vscode" width="40" height="40"/>
+    </a>
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
+        <img src="icons/tools/webstorm.svg" alt="webstorm" width="40" height="40"/>
     </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
         <img src="icons/tools/intelliJ-idea.svg" alt="intellij-idea" width="40" height="40"/>
@@ -168,10 +171,16 @@
         <li><a href="https://github.com/" target="_blank" rel="noreferrer">Github</a></li>
         <li><a href="https://circleci.com/" target="_blank" rel="noreferrer">CircleCI</a></li>
         <li><a href="https://hub.docker.com/" target="_blank" rel="noreferrer">DockerHub</a></li>
-        <li><a href="https://www.oracle.com/es/cloud/" target="_blank" rel="noreferrer">Oracle Cloud</a></li>
-        <li><a href="https://www.mongodb.com/atlas/database" target="_blank" rel="noreferrer">MongoDb Atlas</a></li>
-        <li><a href="https://upstash.com/" target="_blank" rel="noreferrer">Upstash</a></li>
+        <li><a href="https://portal.azure.com/" target="_blank" rel="noreferrer">Azure</a></li>
+        <li><a href="https://www.gitbook.com/" target="_blank" rel="noreferrer">GitBook</a></li>
+        <li><a href="https://www.eraser.io/" target="_blank" rel="noreferrer">Eraser</a></li>
+        <li><a href="https://open-wc.org/" target="_blank" rel="noreferrer">Open Web Components</a></li>
         <li><a href="https://start.spring.io/" target="_blank" rel="noreferrer">Spring Initializr</a></li>
+    </ul>
+    <h3>AI</h3>
+    <ul>
+        <li><a href="https://chatgpt.com/" target="_blank" rel="noreferrer">ChatGPT</a></li>
+        <li><a href="https://leonardo.ai/" target="_blank" rel="noreferrer">Leornado.AI</a></li>
     </ul>
 </p>
 
