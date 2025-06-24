@@ -4,16 +4,16 @@
 
     Misael Pereira, full-stack software engineer, banner illustration, against a gradient of dark blue to deep purple night sky at dusk, evoking innovation and professionalism, with subtle circuit board patterns and thin coding symbols etched in a metallic silver hue, blending seamlessly with futuristic coding interface lines in shades of electric blue and bright green, modern, simple, and minimalist, surrounded by clean, bold typography with a hint of metallic finish, conveying cutting-edge expertise.
 -->
-<div align="center">
+<div>
     <img src="./banners/misaelpereiradev_github_banner_2.jpg" alt="misaelpereiradev_github_banner"/>
 </div>
 
-<h2 align="left">💫 About Me</h2>
-<p align="left">
+<h2>💫 About Me</h2>
+<div>
 Hello! I'm <b>Misael Pereira</b>, a <b>FullStack Software Engineer</b> and passionate developer with experience in <b>Backend, Frontend, and DevOps</b>. I enjoy creating efficient and scalable technological solutions using tools and technologies like <b>Spring Boot, Web Components</b>, and cloud platforms such as <b>Azure</b>.
 
 My primary focus is on developing web applications that are functional, robust, and high-performing, seamlessly integrating frontend design with complex backend logic. I am also interested in automating processes and optimizing infrastructures through modern <b>DevOps</b> practices.
-</p>
+</div>
 
 <!-- https://es.piliapp.com/emoji/list/ -->
 🔭 I’m currently working on: <a href="https://github.com/misaelpereiradev?tab=projects" target="_blank" rel="noreferrer" >Misael Pereira's Projects</a><br>
@@ -29,18 +29,18 @@ My primary focus is on developing web applications that are functional, robust, 
 
 <!-- https://shields.io/ -->
 <h2>🌐 Socials</h2>
-<p align="left">
+<div>
     <a href="mailto:misael.pereira.dev@outlook.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://es.linkedin.com/in/misael-pereira-diaz-3895a5172" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-</p>
+</div>
 
 <!-- https://devicon.dev/ -->
-<h2 align="left">💻 Tech Stack</h2>
-<p align="left">
+<h2>💻 Tech Stack</h2>
+<div>
     <h3>Frontend</h3>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
         <img src="icons/stack/html.svg" alt="html" width="40" height="40"/>
@@ -73,7 +73,7 @@ My primary focus is on developing web applications that are functional, robust, 
         <img src="icons/stack/graphql.svg" alt="graphql" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer">
-        <img src="icons/stack/websocket.svg" alt="socketio" width="40" height="40"/>
+        <img src="icons/stack/websocket.svg" alt="socket.io" width="40" height="40"/>
     </a>
     <h3>Backend</h3>
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
@@ -131,13 +131,13 @@ My primary focus is on developing web applications that are functional, robust, 
     <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
         <img src="icons/stack/azure.svg" alt="azure" width="40" height="40"/>
     </a>
-</p>
+</div>
 <!-- To-do: add CDN, Ansible, Terraform, Helm -->
 
 <!-- https://devicon.dev/ -->
 <h2 align="left">🛠️ Tools</h2>
-<p align="left">
-    <h3>Softwares</h3>
+<div>
+    <h3>Software</h3>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="icons/tools/vscode.svg" alt="vscode" width="40" height="40"/>
     </a>
@@ -182,10 +182,10 @@ My primary focus is on developing web applications that are functional, robust, 
         <li><a href="https://chatgpt.com/" target="_blank" rel="noreferrer">ChatGPT</a></li>
         <li><a href="https://leonardo.ai/" target="_blank" rel="noreferrer">Leornado.AI</a></li>
     </ul>
-</p>
+</div>
 
 <h2>📊 GitHub Stats</h2>
-<p align="left">
+<div>
     <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaelpereiradev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="used-languages"/>
     </div>
@@ -195,4 +195,4 @@ My primary focus is on developing web applications that are functional, robust, 
     <div>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=misaelpereiradev&theme=tokyonight&hide_border=true" alt="contributions"/>
     </div>
-</p>
+</div>

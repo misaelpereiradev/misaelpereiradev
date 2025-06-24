@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.5.1] - 2025-06-25
+
+### Added
+
+- File .gitignore
+
+### Fixed
+
+- Typos and warnings during semantic revisions
+
 ## [0.5.0] - 2024-11-24
 
 ### Added
@@ -18,7 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Changelog structure, following **"Keep changelog"** and **"Semantic versioning"** convections
+- Changelog structure, following **"Keep changelog"** and **"Semantic versioning"** rules
 - Changelog versions, grouping changes of each pull request in a new version starting from `0.1.0`
 - Icons location from deleted sections into others, some to frontend and some to backend
 
@@ -40,7 +50,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Many icons into `icons/stack` and `icons/tools` folders
 - Oracle DB to icon and link section
-- Open Webcomponets to icon section
+- Open Web components to icon section
 - Storybook to icon section
 - Bash to icon section
 
@@ -85,7 +95,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- REST link to redirect to [restfulapi.net](restfulapi.net)
+- REST link to redirect to [https://restfulapi.net/](https://restfulapi.net/)
 
 ### Removed
 
@@ -114,7 +124,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Spanish links to be english by default
 - Lit icon
-- Order of github stats
+- Order of GitHub stats
 
 ### Fixed
 
@@ -124,7 +134,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Some basic strcuture
+- Some basic structure
 - Header banner
 - Frontend tech stack icons
 - Transport tech stack icons
