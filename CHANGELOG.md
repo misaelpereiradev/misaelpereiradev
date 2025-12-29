@@ -5,11 +5,26 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.6.0] - 2025-12-30
+
+### Changed
+
+- Leonardo AI one-line to multi-line prompt.
+
+### Removed
+
+- GraphQL icon from **Frontend** section.
+- MongoDB icon from **Backend** section.
+- Elastic-stack icon from **DevOps** section.
+- All software icons from **Tools** section. 
+- All AI links from **Tools** section.
+- **GitHub Stats** entire section.
+
 ## [0.5.1] - 2025-06-25
 
 ### Added
 
-- File .gitignore
+- File `.gitignore`
 
 ### Fixed
 
@@ -122,7 +137,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Spanish links to be english by default
+- Spanish links to be English by default
 - Lit icon
 - Order of GitHub stats
 
