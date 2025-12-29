@@ -133,16 +133,26 @@ My primary focus is on developing web applications that are functional, robust, 
 <!-- https://devicon.dev/ -->
 <h2 align="left">🛠️ Tools</h2>
 <div>
-    <h3>Links</h3>
-    <ul>
-        <li><a href="https://outlook.live.com/" target="_blank" rel="noreferrer">Outlook</a></li>
-        <li><a href="https://github.com/" target="_blank" rel="noreferrer">Github</a></li>
-        <li><a href="https://circleci.com/" target="_blank" rel="noreferrer">CircleCI</a></li>
-        <li><a href="https://hub.docker.com/" target="_blank" rel="noreferrer">DockerHub</a></li>
-        <li><a href="https://portal.azure.com/" target="_blank" rel="noreferrer">Azure</a></li>
-        <li><a href="https://www.gitbook.com/" target="_blank" rel="noreferrer">GitBook</a></li>
-        <li><a href="https://www.eraser.io/" target="_blank" rel="noreferrer">Eraser</a></li>
-        <li><a href="https://open-wc.org/" target="_blank" rel="noreferrer">Open Web Components</a></li>
-        <li><a href="https://start.spring.io/" target="_blank" rel="noreferrer">Spring Initializr</a></li>
-    </ul>
+    <table>
+        <tr>
+            <th>Initializers</th>
+            <td><a href="https://start.spring.io/" target="_blank" rel="noreferrer">Spring Initializr</a></td>
+            <td><a href="https://open-wc.org/" target="_blank" rel="noreferrer">Open Web Components</a></td>
+        </tr>
+        <tr>
+            <th>Repositories</th>
+            <td><a href="https://github.com/" target="_blank" rel="noreferrer">Github</a></td>
+            <td><a href="https://hub.docker.com/" target="_blank" rel="noreferrer">DockerHub</a></td>
+        </tr>
+        <tr>
+            <th>Deployment</th>
+            <td><a href="https://circleci.com/" target="_blank" rel="noreferrer">CircleCI</a></td>
+            <td><a href="https://portal.azure.com/" target="_blank" rel="noreferrer">Azure</a></td>
+        </tr>
+        <tr>
+            <th>Documentation</th>
+            <td><a href="https://www.eraser.io/" target="_blank" rel="noreferrer">Eraser</a></td>
+            <td><a href="https://www.gitbook.com/" target="_blank" rel="noreferrer">GitBook</a></td>
+        </tr>
+    </table>
 </div>

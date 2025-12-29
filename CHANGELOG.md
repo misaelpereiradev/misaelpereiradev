@@ -10,13 +10,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Leonardo AI one-line to multi-line prompt.
+- **Tools** section links from a list to a table ordered by category.
 
 ### Removed
 
 - GraphQL icon from **Frontend** section.
 - MongoDB icon from **Backend** section.
 - Elastic-stack icon from **DevOps** section.
-- All software icons from **Tools** section. 
+- All software icons from **Tools** section.
+- Outlook link from **Tools** section.
 - All AI links from **Tools** section.
 - **GitHub Stats** entire section.
 
