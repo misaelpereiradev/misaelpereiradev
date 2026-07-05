@@ -1,36 +1,13 @@
-<!-- Banner image generated with Leonardo AI -->
-<!-- 
-    Leonardo AI Prompt:
-
-    Misael Pereira, full-stack software engineer, banner illustration, against a gradient of dark 
-    blue to deep purple night sky at dusk, evoking innovation and professionalism, with subtle 
-    circuit board patterns and thin coding symbols etched in a metallic silver hue, blending 
-    seamlessly with futuristic coding interface lines in shades of electric blue and bright green, 
-    modern, simple, and minimalist, surrounded by clean, bold typography with a hint of metallic 
-    finish, conveying cutting-edge expertise.
--->
 <div>
-    <img src="./banners/misaelpereiradev_github_banner_2.jpg" alt="misaelpereiradev_github_banner"/>
+    <img src="./banners/misaelpereiradev_github_banner_gemini.png" alt="misaelpereiradev_github_banner"/>
 </div>
 
 <h2>💫 About Me</h2>
 <div>
-Hello! I'm <b>Misael Pereira</b>, a <b>FullStack Software Engineer</b> and passionate developer with experience in <b>Backend, Frontend, and DevOps</b>. I enjoy creating efficient and scalable technological solutions using tools and technologies like <b>Spring Boot, Web Components</b>, and cloud platforms such as <b>Azure</b>.
+Hello! I'm <b>Misael Pereira</b>, a <b>Senior Software Engineer</b> and passionate developer with experience in <b>Backend, Frontend, and DevOps</b>. I enjoy creating efficient and scalable technological solutions using tools and technologies like <b>Spring Boot, Web Components</b>, and cloud platforms such as <b>Azure</b>.
 
 My primary focus is on developing web applications that are functional, robust, and high-performing, seamlessly integrating frontend design with complex backend logic. I am also interested in automating processes and optimizing infrastructures through modern <b>DevOps</b> practices.
 </div>
-
-<!-- https://es.piliapp.com/emoji/list/ -->
-🔭 I’m currently working on: <a href="https://github.com/misaelpereiradev?tab=projects" target="_blank" rel="noreferrer" >Misael Pereira's Projects</a><br>
-🌱 I’m currently learning: <b>Azure</b>                         <br>
-💬 Ask me about: <b>Programing 🖥️, Gaming 🎮, Fantasy 🦄</b>    <br>
-📫 How to reach me: <b>Look at Socials Section 👇</b>           <br>
-
-<!--
-👯 I’m looking to collaborate on: TBA                           <br>
-🤝 I’m looking for help with: TBA                               <br>
-⚡ Fun fact: TBA                                                <br>
--->
 
 <!-- https://shields.io/ -->
 <h2>🌐 Socials</h2>
@@ -74,9 +51,6 @@ My primary focus is on developing web applications that are functional, robust, 
     <a href="https://storybook.js.org/" target="_blank" rel="noreferrer">
         <img src="icons/stack/storybook.svg" alt="lit" height="40"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer">
-        <img src="icons/stack/websocket.svg" alt="socket.io" width="40" height="40"/>
-    </a>
     <h3>Backend</h3>
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
         <img src="icons/stack/java.svg" alt="java" width="40" height="40"/>
@@ -96,11 +70,14 @@ My primary focus is on developing web applications that are functional, robust, 
     <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
         <img src="icons/stack/rest.svg" alt="rest" width="40" height="40"/>
     </a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+        <img src="icons/stack/kafka.svg" alt="kafka" width="40" height="40"/>
+    </a>
     <a href="https://grpc.io/" target="_blank" rel="noreferrer">
         <img src="icons/stack/grpc.svg" alt="grpc" width="40" height="40"/>
     </a>
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-        <img src="icons/stack/kafka.svg" alt="kafka" width="40" height="40"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer">
+        <img src="icons/stack/websocket.svg" alt="socket.io" width="40" height="40"/>
     </a>
     <h3>DevOps</h3>
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
@@ -115,8 +92,8 @@ My primary focus is on developing web applications that are functional, robust, 
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
         <img src="icons/stack/kubernetes.svg" alt="kubernetes" width="40" height="40"/>
     </a>
-    <a href="https://circleci.com/" target="_blank" rel="noreferrer">
-        <img src="icons/stack/circleci.svg" alt="circleci" width="40" height="40"/>
+    <a href="https://learn.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops" target="_blank" rel="noreferrer">
+        <img src="icons/stack/azure-pipelines.svg" alt="azure-pipelines" width="40" height="40"/>
     </a>
     <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
         <img src="icons/stack/prometheus.svg" alt="prometheus" width="40" height="40"/>
@@ -146,13 +123,8 @@ My primary focus is on developing web applications that are functional, robust, 
         </tr>
         <tr>
             <th>Deployment</th>
-            <td><a href="https://circleci.com/" target="_blank" rel="noreferrer">CircleCI</a></td>
+            <td><a href="https://dev.azure.com/" target="_blank" rel="noreferrer">Azure DevOps</a></td>
             <td><a href="https://portal.azure.com/" target="_blank" rel="noreferrer">Azure</a></td>
-        </tr>
-        <tr>
-            <th>Documentation</th>
-            <td><a href="https://www.eraser.io/" target="_blank" rel="noreferrer">Eraser</a></td>
-            <td><a href="https://www.gitbook.com/" target="_blank" rel="noreferrer">GitBook</a></td>
         </tr>
     </table>
 </div>
